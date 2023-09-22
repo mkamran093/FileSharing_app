@@ -147,4 +147,5 @@ body {
   font-size: 16px;
   padding: 5px;
   border-top: 1px solid #eee;
+  overflow: hidden;
 }
